@@ -7,3 +7,12 @@ numpy
 regex
 nltk
 jsonschema
+gunicorn
+asyncpg
+click
+databases
+h11
+psycopg2-binary
+SQLAlchemy
+starlette
+websockets
