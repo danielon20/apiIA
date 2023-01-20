@@ -6,4 +6,4 @@ pydantic
 numpy
 regex
 nltk
-json
+jsonschema
