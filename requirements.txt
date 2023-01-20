@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+keras
+tensorflow
+BaseModel
+numpy
+regex
+nltk
+json
