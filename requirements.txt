@@ -2,7 +2,7 @@ fastapi
 uvicorn
 keras
 tensorflow
-BaseModel
+pydantic
 numpy
 regex
 nltk
